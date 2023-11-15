@@ -1,4 +1,4 @@
-# Geospatial Analysis
+# Data Manipulation for Remote sensing Data
 ## Vector_manipulation
 This folder contains a Python script for vector data manipulation. The primary functionalities of this script include:
 
